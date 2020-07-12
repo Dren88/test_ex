@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<КоммерческаяИнформация ВерсияСхемы="2.021" ДатаФормирования="2020-07-10T14:40:21">
+	<Классификатор>
+		<Ид>clothes_news_s1</Ид>
+		<Наименование>Новости</Наименование>
+		<Описание>&lt;p&gt;
+	 Приглашаем Вас, посетить наш семинар «Передовые решения в области промышленной автоматизации и робототехники» 19 сентября 2018г начало в 11:00 конференц-зал №2, проводимый в рамках многоотраслевой выставки «ТехноЭкспо, Промышленность, Строительство, Транспорт» проходящий в период с 18-20 сентября ЛА «Трактор»
+&lt;/p&gt;</Описание>
+		<Свойства>
+			<Свойство>
+				<Ид>CML2_ACTIVE</Ид>
+				<Наименование>БитриксАктивность</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_CODE</Ид>
+				<Наименование>Символьный код</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_SORT</Ид>
+				<Наименование>Сортировка</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_ACTIVE_FROM</Ид>
+				<Наименование>Начало активности</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_ACTIVE_TO</Ид>
+				<Наименование>Окончание активности</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_PREVIEW_TEXT</Ид>
+				<Наименование>Анонс</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_DETAIL_TEXT</Ид>
+				<Наименование>Описание</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_PREVIEW_PICTURE</Ид>
+				<Наименование>Картинка анонса</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>240</Ид>
+				<Наименование>Картинки новостей</Наименование>
+				<Множественное>true</Множественное>
+				<БитриксСортировка>500</БитриксСортировка>
+				<БитриксКод>PICS_NEWS</БитриксКод>
+				<БитриксТипСвойства>F</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>L</БитриксТипСписка>
+				<БитриксТипыФайлов>jpg, gif, bmp, png, jpeg</БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+		</Свойства>
+		<СвойстваЭлементов>
+			<Свойство>
+				<Ид>240</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения></ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+		</СвойстваЭлементов>
+		<Группы>
+		</Группы>
+	</Классификатор>
+	<Каталог>
+		<Ид>clothes_news_s1</Ид>
+		<ИдКлассификатора>clothes_news_s1</ИдКлассификатора>
+		<Наименование>Новости</Наименование>
+		<Описание>&lt;p&gt;
+	 Приглашаем Вас, посетить наш семинар «Передовые решения в области промышленной автоматизации и робототехники» 19 сентября 2018г начало в 11:00 конференц-зал №2, проводимый в рамках многоотраслевой выставки «ТехноЭкспо, Промышленность, Строительство, Транспорт» проходящий в период с 18-20 сентября ЛА «Трактор»
+&lt;/p&gt;</Описание>
+		<БитриксКод>news</БитриксКод>
+		<БитриксСортировка>500</БитриксСортировка>
+		<БитриксURLСписок>#SITE_DIR#/news/</БитриксURLСписок>
+		<БитриксURLДеталь>#SITE_DIR#/news/#ELEMENT_CODE#/</БитриксURLДеталь>
+		<БитриксURLРаздел></БитриксURLРаздел>
+		<БитриксURLКанонический></БитриксURLКанонический>
+		<БитриксКартинка>news_files/iblock/45c/45c34f39c8addbf4b74f94c5552f1ad0.jpg</БитриксКартинка>
+		<БитриксИндексироватьЭлементы>true</БитриксИндексироватьЭлементы>
+		<БитриксИндексироватьРазделы>false</БитриксИндексироватьРазделы>
+		<БитриксДокументооборот>false</БитриксДокументооборот>
+		<БитриксПодписи>
+			<БитриксПодпись>
+				<Ид>ELEMENT_NAME</Ид>
+				<Значение>Новость</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENTS_NAME</Ид>
+				<Значение>Новости</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_ADD</Ид>
+				<Значение>Добавить новость</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_EDIT</Ид>
+				<Значение>Изменить новость</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_DELETE</Ид>
+				<Значение>Удалить новость</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_NAME</Ид>
+				<Значение>Раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTIONS_NAME</Ид>
+				<Значение>Разделы</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_ADD</Ид>
+				<Значение>Добавить раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_EDIT</Ид>
+				<Значение>Изменить раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_DELETE</Ид>
+				<Значение>Удалить раздел</Значение>
+			</БитриксПодпись>
+		</БитриксПодписи>
+		<Товары>
+			<Товар>
+				<Ид>139505</Ид>
+				<Наименование>7 февраля 2019 года в Челябинске пройдет семинар и мастер-класс по работе с контроллерами GE</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>master_klass_po_rabote_s_kontrollerami_GE</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-01-09 11:32:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Впервые в Уральском регионе 7 февраля 2019 года состоится семинар по продукции GE Automation &amp;amp; Controls и мастер-класс в Челябинске по работе с 4-х ядерными промышленными контроллерами нового поколениями GE на ОС Linux. &lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Участие в семинаре.....&lt;/strong&gt;
+&lt;/p&gt;
+ &lt;br&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;h1 style=&quot;color:#0192dc; text-align: center;&quot;&gt;Уважаемые господа!&lt;/h1&gt;
+ &lt;style&gt;
+h1{
+font-size: 120%;
+}
+h2{
+font-size: 100%;
+}
+h3{
+display: none;
+}
+@media screen and (max-width: 720px) {
+  table {
+    border: 0;
+  }
+  table thead {
+    display: none;
+  }
+  table tr {
+    margin-bottom: 10px;
+    display: block;
+    border-bottom: 2px solid #ddd;
+  }
+  table td {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    border-bottom: 1px dotted #ccc;
+    border-right: 1px solid transparent;
+  }
+  table td:last-child {
+    border-bottom: 0;
+  }
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+ &lt;img width=&quot;800&quot; alt=&quot;Семинар GE&quot; src=&quot;/upload/medialibrary/df3/df361db3d82eab757fb3885ffd049f35.png&quot; height=&quot;179&quot; title=&quot;Семинар GE&quot; align=&quot;middle&quot;&gt;
+&lt;/p&gt;
+ &lt;style&gt;
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt;&lt;br&gt;
+&lt;p style=&quot;color:#03244f&quot; align=&quot;middle&quot;&gt;
+	 В Челябинске специалисты GE Automation &amp;amp; Controls представят совершенно новое оборудование в области промышленной автоматизации, что позволит вам оценить достоинства линейки продукции GE, а так же познакомится с возможностями программирования данных устройств. В рамках проводимого семинара состоится мастер-класс по работе с 4-х ядерными промышленными контроллерами нового поколениями GE на ОС Linux, по итогам которого состоится выдача сертификатов о прохождении мастер-класса. &lt;br&gt;
+ &lt;br&gt;
+	 Участие в семинаре бесплатное &lt;a href=&quot;/go.php?url=http://advantekengineering.ru/7-февраля-2019-года-в-челябинске-пройдет-се/&quot; target=&quot;_blank&quot; style=&quot;color: #099&quot;&gt;&lt;strong&gt;(по предварительной регистрации)&lt;/strong&gt;&lt;/a&gt;.&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Время проведения семинара:&lt;/strong&gt; с 10-00 до 15-00, регистрация до 10-30&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Место проведения семинара:&lt;/strong&gt; г. Челябинск, Radisson Blu Hotel Chelyabinsk, зал Calipso&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Адрес:&lt;/strong&gt; г.Челябинск, ул. Труда 179, &lt;br&gt;
+ &lt;br&gt;
+ &lt;img width=&quot;945&quot; alt=&quot;Место проведения&quot; src=&quot;/upload/medialibrary/d6c/d6cca3a7b8f38d8dc0f4d990f0d4d012.jpg&quot; height=&quot;500&quot; title=&quot;Место проведения&quot; align=&quot;middle&quot;&gt;
+&lt;/p&gt;
+&lt;h2 class=&quot;line&quot; style=&quot;color:#0192dc&quot;&gt;Программа семинара&lt;/h2&gt;
+ &lt;style&gt;.line {  
+ position: relative;
+ z-index: 1;
+ overflow: hidden;
+ text-align: center;
+}
+.line:before,
+.line:after {
+ content: '';
+ display: inline-block;
+ width: 100%;
+ height: 1px;
+ background:  #0192dc;
+ z-index: -1;
+ position: relative;
+ vertical-align: middle;
+}
+.line:before {
+ right: 15px;
+ margin: 0 0 0 -100%;
+}
+.line:after {
+ left: 15px;
+ margin: 0 -100% 0 0;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+ &lt;strong&gt;
+	10.30 – 12.30 &lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;Обзор продукции GE Automation &amp;amp; Controls;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;Презентация новых продуктов и решений GE Automation &amp;amp; Controls и тенденции развития промышленной автоматизации;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;Опыт внедрения проектов в Российской Федерации с 1996 года;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+	&lt;p&gt;
+	&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;color: #03244f; text-align: left;&quot;&gt;
+ &lt;strong&gt;
+	12.30 – 13.00 &lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;Кофе-брейк. Неформальное общение, обсуждение текущих и перспективных задач внедрения новинок автоматизации в регионе;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+	&lt;p&gt;
+	&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+ &lt;strong&gt;
+	13.00 – 15.00 &lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;Мастер-класс «Программирование контроллеров нового поколения PACSystems RX3i с интегрированной ОС Linux»;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;Обсуждение материала;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;Выдача сертификатов о прохождении мастер-класса;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;color:#0192dc&quot;&gt;
+ &lt;i&gt;Семинар организован компанией GE, официальным дистрибьютором GE в РФ и СНГ Advantek Engineering и GE Solution Provider в УФО «ИТЦ УКАВТ». Семинар адресован специалистам и кругу лиц, заинтересованным в применении современных и надежных средств автоматизации для создания АСУ ТП в различных отраслях промышленности.&lt;/i&gt;
+&lt;/p&gt;
+&lt;p style=&quot;background-color: #ffa4a4; color: #000000&quot;&gt;
+ &lt;br&gt;
+	 Внимание! Для участия в семинаре и получения сертификата вам необходимо до 4 февраля 2019г. зарегистрироваться на семинар! Вы может зарегистрироваться любым удобным для вас способом:&lt;br&gt;
+ &lt;br&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;на &lt;a href=&quot;/go.php?url=http://advantekengineering.ru/7-февраля-2019-года-в-челябинске-пройдет-се/&quot; target=&quot;_blank&quot; style=&quot;color: #099&quot;&gt;&lt;strong&gt;сайте&lt;/strong&gt;&lt;/a&gt;, используя форму внизу страницы;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;по почте: &lt;a href=&quot;mailto:seminar@advantekengineering.ru&quot;&gt;seminar@advantekengineering.ru&lt;/a&gt;, &lt;a href=&quot;mailto:sale@ukavt.ru&quot;&gt;sale@ukavt.ru;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#03244f&quot;&gt;или по телефону в Челябинске: +7 950 730 40 60 Рябоконь Александр;&lt;/span&gt;&lt;/li&gt;
+ &lt;br&gt;
+&lt;/ul&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/7a9/7a900220707c9fa929c9f17a25ca58c6.png</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>163243</Ид>
+				<Наименование>С Юбилеем Валерий Павлович</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>s_yubileev_valeriy_pavlovich</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-01-31 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+ &lt;br&gt;
+	 Сегодня отмечает свой 70-летний юбилей Главный Конструктор проектно-конструкторского отдела ИТЦ &quot;УКАВТ&quot; Валерий Павлович Бедин. &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Перейти к поздравлению.....&lt;/strong&gt;
+&lt;/p&gt;
+ &lt;br&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;style&gt;
+img {
+max-width: 100%;
+height: auto;
+}
+h3{
+display: none;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt; &lt;strong&gt;
+&lt;p style=&quot;text-align: center; color:#03244f;&quot;&gt;
+	 ПОЗДРАВЛЯЕМ С ЮБИЛЕЕМ
+&lt;/p&gt;
+ &lt;/strong&gt;
+&lt;p style=&quot;text-align: center; color:#03244f;&quot;&gt;
+ &lt;br&gt;
+ &lt;strong&gt;
+	70 ЛЕТ!&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center; color:#03244f;&quot;&gt;
+	 Какой прекрасный, благословенный юбилей! &lt;br&gt;
+	 Мудрости уже не занимать, опыт просто зашкаливает, а душа полна любви и сопереживания!&lt;br&gt;
+	 В этот день поздравляем Вас и желаем крепкого здоровья, чтобы хватило до столетнего юбилея, силы воли, чтобы укреплять себя физически и духовно!&lt;br&gt;
+	 Желаем почтительного уважения от коллег и знакомых, а еще безмерной любви близких и родных людей!&lt;br&gt;
+	 Пусть жизнь играет всеми красками радуги и дарит Вас лучшие дни, в которых не будет суеты, стрессов и тревог, а будут только радость и счастье! &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;img width=&quot;800&quot; alt=&quot;Бедин В.П.&quot; src=&quot;/upload/medialibrary/bae/bae7773b89cfbd1e4efdc7c711222874.png&quot; height=&quot;456&quot; title=&quot;Бедин В.П.&quot;&gt;&lt;br&gt;
+&lt;/p&gt;
+ &lt;br&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/312/312a9a22099ed101b0a6492dd9b3ae2c.png</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>163245</Ид>
+				<Наименование>Как это было: фотоотчёт с мастер-класса GE </Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>fotootchyet_s_master_klassa_ge_</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-02-07 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+ 7 февраля 2019 года состоится семинар по продукции GE Automation Controls и мастер-класс в Челябинске. Были представлены новинки в области оборудования для автоматизации.&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Фотоотчет о прошедшем семинаре.....&lt;/strong&gt;
+&lt;/p&gt;
+ &lt;br&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;h1 style=&quot;color:#0192dc; text-align: center;&quot;&gt;Фотоотчет с мероприятия&lt;/h1&gt;
+ &lt;style&gt;
+h1{
+font-size: 120%;
+}
+h2{
+font-size: 100%;
+}
+h3{
+display: none;
+}
+@media screen and (max-width: 720px) {
+  table {
+    border: 0;
+  }
+  table thead {
+    display: none;
+  }
+  table tr {
+    margin-bottom: 10px;
+    display: block;
+    border-bottom: 2px solid #ddd;
+  }
+  table td {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    border-bottom: 1px dotted #ccc;
+    border-right: 1px solid transparent;
+  }
+  table td:last-child {
+    border-bottom: 0;
+  }
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+	 7 февраля 2019 года в гостиничном комплексе Radisson blu (г. Челябинск) состоялся долгожданный семинар и мастер-класс по работе с контроллерами GE. В них принимали участие компания Advantek Enginering в лице Александра Соловьева и Георгия Торева, а так же от компании ООО &quot;ИТЦ УКАВТ&quot; выступил директор фирмы Владимир Владимирович Качкаев.
+&lt;/p&gt;
+ &lt;br&gt;
+&lt;h2 style=&quot;text-align: center; color:#03244f&quot;&gt;Анонс мероприятия вы можете посмотреть ниже: &lt;/h2&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Начало мероприятия. Знакомство с представителями компании Advantek Enginering Александром Соловьевым и Георгием Торевым. Семинар открывает Александр Александрович вручением дилерского сертификата компании ООО &quot;ИТЦ УКАВТ&quot;.
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+		&lt;div class=&quot;videoWrapper&quot;&gt;
+			&lt;p align=&quot;center&quot;&gt;
+				 &lt;iframe width=&quot;400&quot; height=&quot;213&quot; src=&quot;https://www.youtube.com/embed/9GL-W-YRJAU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;style&gt;
+.video-block-opt {
+  text-align: center;
+  margin-bottom: 25px;
+}
+ 
+@media (max-width: 640px) {
+ .videoWrapper{
+position:relative;
+padding-bottom:56.25%;
+padding-top:30px;
+overflow:hidden;
+}
+
+.videoWrapper iframe,.videoWrapper object, .videoWrapper embed{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+}
+}
+&lt;/style&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_1&quot; href=&quot;/upload/medialibrary/7c1/7c1fab89889d7f395099a92c3ea8a421.jpg&quot; height=&quot;213&quot; title=&quot;Вручением дилерского сертификата ООО ИТЦ УКАВТ&quot;&gt; &lt;img alt=&quot;Вручением дилерского сертификата ООО &quot; src=&quot;/upload/medialibrary/7c1/7c1fab89889d7f395099a92c3ea8a421.jpg&quot; height=&quot;213&quot; title=&quot;IMG_20190207_103916.jpg&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+		&lt;SCRIPT LANGUAGE=&quot;JavaScript&quot;&gt;
+$(document).ready(function() {
+    $(&quot;#single_1&quot;).fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
+
+    $(&quot;#single_2&quot;).fancybox({
+    	openEffect	: 'elastic',
+    	closeEffect	: 'elastic',
+
+    	helpers : {
+    		title : {
+    			type : 'inside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_3&quot;).fancybox({
+    	openEffect : 'none',
+    	closeEffect	: 'none',
+    	helpers : {
+    		title : {
+    			type : 'outside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_4&quot;).fancybox({
+    	helpers : {
+    		title : {
+    			type : 'over'
+    		}
+    	}
+    });
+ $(&quot;#single_5&quot;).fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
+ $(&quot;#single_6&quot;).fancybox({
+    	openEffect	: 'elastic',
+    	closeEffect	: 'elastic',
+
+    	helpers : {
+    		title : {
+    			type : 'inside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_7&quot;).fancybox({
+    	openEffect : 'none',
+    	closeEffect	: 'none',
+    	helpers : {
+    		title : {
+    			type : 'outside'
+    		}
+    	}
+    });
+
+});
+&lt;/SCRIPT&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Компания Advantek Enginering представила реализованные проекты на основании собственно изготовленного оборудования для автоматизации.
+&lt;/p&gt;
+ &lt;br&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_2&quot; href=&quot;/upload/medialibrary/6d8/6d8740749d498806253e246f732164de.jpg&quot; height=&quot;1000&quot; width=&quot;400&quot; title=&quot;Выступление Александра Соловьева&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выступление Александра Соловьева&quot; src=&quot;/upload/medialibrary/6d8/6d8740749d498806253e246f732164de.jpg&quot; height=&quot;229&quot; title=&quot;Выступление Александра Соловьева&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_3&quot; href=&quot;/upload/medialibrary/704/7048494f931e64f2e6a5a4a0befcee00.jpg&quot; height=&quot;1000&quot; width=&quot;400&quot; title=&quot;Выступление Александра Соловьева&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выступление Александра Соловьева&quot; src=&quot;/upload/medialibrary/704/7048494f931e64f2e6a5a4a0befcee00.jpg&quot; height=&quot;231&quot; title=&quot;Выступление Александра Соловьева&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Выступление директора ООО ИТЦ УКАВТ Владимира Владимировича Качкаева. Знакомство с деятельностью компании, показ реализованных проектов.
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_4&quot; href=&quot;/upload/medialibrary/ebe/ebe405b17c1b117f772df68c8d9e7b8f.jpg&quot; title=&quot;Выступление Владимира Качкаева&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выступление Владимира Качкаева&quot; src=&quot;/upload/medialibrary/ebe/ebe405b17c1b117f772df68c8d9e7b8f.jpg&quot; height=&quot;224&quot; title=&quot;Выступление Владимира Качкаева&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+		&lt;div class=&quot;videoWrapper&quot;&gt;
+			&lt;p align=&quot;center&quot;&gt;
+				 &lt;iframe width=&quot;400&quot; height=&quot;225&quot; src=&quot;https://www.youtube.com/embed/ohtv6ZLRbp8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;style&gt;
+.video-block-opt {
+  text-align: center;
+  margin-bottom: 25px;
+}
+ 
+@media (max-width: 640px) {
+ .videoWrapper{
+position:relative;
+padding-bottom:56.25%;
+padding-top:30px;
+overflow:hidden;
+}
+
+.videoWrapper iframe,.videoWrapper object, .videoWrapper embed{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+}
+}
+&lt;/style&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_5&quot; href=&quot;/upload/medialibrary/4e5/4e5ede1afe5129d9a06d242b482dd670.jpg&quot; height=&quot;200&quot; title=&quot;Выступление Владимира Качкаева&quot;&gt; &lt;img width=&quot;430&quot; alt=&quot;Выступление Владимира Качкаева&quot; src=&quot;/upload/medialibrary/4e5/4e5ede1afe5129d9a06d242b482dd670.jpg&quot; height=&quot;225&quot; title=&quot;Выступление Владимира Качкаева&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Георгий Торев познакомил участников в новой линейкой контроллеров. Рассказал о стоимости и преимуществах выпускаемой продукции, а так же провел практический показ образцов.
+&lt;/p&gt;
+ &lt;br&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_6&quot; href=&quot;/upload/medialibrary/281/281a22637d6898387b925b54a59fac8c.png&quot; height=&quot;200&quot; title=&quot;Выступление Георгия Торева&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выступление Георгия Торева&quot; src=&quot;/upload/medialibrary/281/281a22637d6898387b925b54a59fac8c.png&quot; height=&quot;223&quot; title=&quot;Выступление Георгия Торева&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_7&quot; href=&quot;/upload/medialibrary/cc7/cc7b557d341405f62cf14c84b849a75b.png&quot; height=&quot;200&quot; title=&quot;Выступление Георгия Торева&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выступление Георгия Торева&quot; src=&quot;/upload/medialibrary/cc7/cc7b557d341405f62cf14c84b849a75b.png&quot; height=&quot;223&quot; title=&quot;Выступление Георгия Торева&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/bc1/bc14afba8e7588096ad3fbd89b3e3bf6.png</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>163912</Ид>
+				<Наименование>Обучение программированию роботов YASKAWA</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>obuchenie_programmirovaniyu_robotov_yaskawa</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-03-25 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+Специалисты нашей компании приняли участи в обучающих курсах, проводимых японской компании YASKAWA &lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Подробнее об обучении.....&lt;/strong&gt;
+&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;h1 style=&quot;color:#0192dc; text-align: center;&quot;&gt;Фотоотчет с обучения&lt;/h1&gt;
+ &lt;style&gt;
+h1{
+font-size: 120%;
+}
+h3{
+display: none;
+}
+@media screen and (max-width: 720px) {
+  table {
+    border: 0;
+  }
+  table thead {
+    display: none;
+  }
+  table tr {
+    margin-bottom: 10px;
+    display: block;
+    border-bottom: 2px solid #ddd;
+  }
+  table td {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    border-bottom: 1px dotted #ccc;
+    border-right: 1px solid transparent;
+  }
+  table td:last-child {
+    border-bottom: 0;
+  }
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt; &lt;SCRIPT LANGUAGE=&quot;JavaScript&quot;&gt;
+$(document).ready(function() {
+    $(&quot;#single_1&quot;).fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
+
+    $(&quot;#single_2&quot;).fancybox({
+    	openEffect	: 'elastic',
+    	closeEffect	: 'elastic',
+
+    	helpers : {
+    		title : {
+    			type : 'inside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_3&quot;).fancybox({
+    	openEffect : 'none',
+    	closeEffect	: 'none',
+    	helpers : {
+    		title : {
+    			type : 'outside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_4&quot;).fancybox({
+    	helpers : {
+    		title : {
+    			type : 'over'
+    		}
+    	}
+    });
+});
+&lt;/SCRIPT&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_1&quot; href=&quot;/upload/medialibrary/7da/7da07204fd76b157e13f293aacf8fb44.jpg&quot; height=&quot;213&quot; title=&quot;Поздороваться с роботом&quot;&gt; &lt;img width=&quot;402&quot; alt=&quot;Поздороваться с роботом&quot; src=&quot;/upload/medialibrary/7da/7da07204fd76b157e13f293aacf8fb44.jpg&quot; height=&quot;224&quot; title=&quot;Поздороваться с роботом&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_2&quot; href=&quot;/upload/medialibrary/197/197c8489bf460f59d8ecef470b3870c9.jpg&quot; height=&quot;213&quot; title=&quot;Дружелюбный робот протягивает руку&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Дружелюбный робот протягивает руку&quot; src=&quot;/upload/medialibrary/197/197c8489bf460f59d8ecef470b3870c9.jpg&quot; height=&quot;223&quot; title=&quot;Дружелюбный робот протягивает руку&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_3&quot; href=&quot;/upload/medialibrary/e4e/e4e80ceea7cdcd42450e9ee311c08327.jpg&quot; height=&quot;213&quot; title=&quot;Сертификат Леонов А.В. о повышении квалификации&quot;&gt; &lt;img width=&quot;207&quot; alt=&quot;Сертификат Леонов А.В. о повышении квалификации&quot; src=&quot;/upload/medialibrary/e4e/e4e80ceea7cdcd42450e9ee311c08327.jpg&quot; height=&quot;300&quot; title=&quot;Сертификат Леонов А.В. о повышении квалификации&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_4&quot; href=&quot;/upload/medialibrary/8b1/8b13ab78fa2a6a007dd725871391b92d.jpg&quot; height=&quot;213&quot; title=&quot;Сертификат Серебряков А.В. о повышении квалификации&quot;&gt; &lt;img width=&quot;209&quot; alt=&quot;Сертификат Серебряков А.В. о повышении квалификации&quot; src=&quot;/upload/medialibrary/8b1/8b13ab78fa2a6a007dd725871391b92d.jpg&quot; height=&quot;300&quot; title=&quot;Сертификат Серебряков А.В. о повышении квалификации&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Специалисты нашей компании прошли очередное повышение квалификации в рамках нового направления – робототехника. На этот раз обучение проходило на территории компании «MOTOMAN» которая является официальным представителем японской компании YASKAWA в России. Компания YASKAWA является одним из ведущих производителей промышленной робототехники. Наши сотрудники изучили структуру робота, научили его выполнять необходимые команды и быть дружелюбным
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+		&lt;div class=&quot;videoWrapper&quot;&gt;
+			&lt;p align=&quot;center&quot;&gt;
+				 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/De4oVyaC1Eg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;style&gt;
+.video-block-opt {
+  text-align: center;
+  margin-bottom: 25px;
+}
+ 
+@media (max-width: 640px) {
+ .videoWrapper{
+position:relative;
+padding-bottom:56.25%;
+padding-top:30px;
+overflow:hidden;
+}
+
+.videoWrapper iframe,.videoWrapper object, .videoWrapper embed{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+}
+}
+&lt;/style&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+		&lt;div class=&quot;videoWrapper&quot;&gt;
+			&lt;p align=&quot;center&quot;&gt;
+				 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZrRrRiL3qFo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;style&gt;
+.video-block-opt {
+  text-align: center;
+  margin-bottom: 25px;
+}
+ 
+@media (max-width: 640px) {
+ .videoWrapper{
+position:relative;
+padding-bottom:56.25%;
+padding-top:30px;
+overflow:hidden;
+}
+
+.videoWrapper iframe,.videoWrapper object, .videoWrapper embed{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+}
+}
+&lt;/style&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/056/0564befbd518af72a371af9b3d96616b.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+				<НаследуемыеШаблоны>
+					<Шаблон>
+						<Ид>ELEMENT_META_TITLE</Ид>
+						<Значение>Обучение программированию роботов YASKAWA</Значение>
+					</Шаблон>
+					<Шаблон>
+						<Ид>ELEMENT_PAGE_TITLE</Ид>
+						<Значение>Обучение программированию роботов YASKAWA</Значение>
+					</Шаблон>
+				</НаследуемыеШаблоны>
+			</Товар>
+			<Товар>
+				<Ид>163913</Ид>
+				<Наименование>Знакомство с новой продукцией компании GE</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>znakomstvo_s_novoy_produktsiey_kompanii_ge</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-04-04 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Компания ООО ИТЦ &quot;УКАВТ&quot; ознакомилась с одними из мощных контроллеров выпускаемых на Российском рынке&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Подробнее о том, как это было.....&lt;/strong&gt;
+&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;h1 style=&quot;color:#0192dc; text-align: center;&quot;&gt;Знакомство с новыми контроллерами&lt;/h1&gt;
+ &lt;style&gt;
+h1{
+font-size: 120%;
+}
+h3{
+display: none;
+}
+@media screen and (max-width: 720px) {
+  table {
+    border: 0;
+  }
+  table thead {
+    display: none;
+  }
+  table tr {
+    margin-bottom: 10px;
+    display: block;
+    border-bottom: 2px solid #ddd;
+  }
+  table td {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    border-bottom: 1px dotted #ccc;
+    border-right: 1px solid transparent;
+  }
+  table td:last-child {
+    border-bottom: 0;
+  }
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt; &lt;SCRIPT LANGUAGE=&quot;JavaScript&quot;&gt;
+$(document).ready(function() {
+    $(&quot;#single_1&quot;).fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
+
+    $(&quot;#single_2&quot;).fancybox({
+    	openEffect	: 'elastic',
+    	closeEffect	: 'elastic',
+
+    	helpers : {
+    		title : {
+    			type : 'inside'
+    		}
+    	}
+    });
+});
+&lt;/SCRIPT&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+ &lt;img width=&quot;1270&quot; alt=&quot;RX3i CPE 400&quot; src=&quot;/upload/medialibrary/8c8/8c8aed0331aaf84d0d91aca7ebe7edb4.jpg&quot; height=&quot;258&quot; title=&quot;RX3i CPE 400&quot;&gt;
+&lt;/p&gt;
+&lt;p style=&quot;color:#03244f&quot;&gt;
+	 С 18 по 21 марта, инженеры ИТЦ «УКАВТ» прошли курс повышения квалификации по программированию серии контроллеров «GE» на базе компании Advant. Ознакомились с флагманом новой линейки контроллеров RX3i CPE 400 который является одним из самых мощных контроллеров компании «GE». Данный прибор совмещает в себе два устройства: сам контроллер и компьютер на базе операционной системы Linux. Специалисты обучились программированию на базе гибкой и умной системы, разработанной компанией «GE» - Proficy ME.
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_1&quot; href=&quot;/upload/medialibrary/2ed/2edfeedce14ce3d7eece3a049b9ffb28.jpg&quot; height=&quot;213&quot; title=&quot;Сертификат Леонов А.В.&quot;&gt; &lt;img width=&quot;276&quot; alt=&quot;Сертификат Леонов А.В.&quot; src=&quot;/upload/medialibrary/2ed/2edfeedce14ce3d7eece3a049b9ffb28.jpg&quot; height=&quot;400&quot; title=&quot;Сертификат Леонов А.В.&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_2&quot; href=&quot;/upload/medialibrary/06a/06a8f5183a96d2f4d5c13ce553aff641.jpg&quot; height=&quot;213&quot; title=&quot;Сертификат Серебряков А.В.&quot;&gt; &lt;img width=&quot;274&quot; src=&quot;/upload/medialibrary/06a/06a8f5183a96d2f4d5c13ce553aff641.jpg&quot; height=&quot;400&quot; alt=&quot;Сертификат&quot; Серебряков=&quot;null&quot; title=&quot;Сертификат Серебряков А.В.&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/106/106d65188cb1da2f10d98e725179c7c8.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>163914</Ид>
+				<Наименование>С днем рождения Владимир Владимирович  </Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>s_dnem_rozhdeniya_Vladimir_Vladimirovich</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-04-12 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Сегодня свое день рождения празднует наш руководитель&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Подробнее о том, как это было.....&lt;/strong&gt;
+&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;style&gt;
+img {
+max-width: 100%;
+height: auto;
+}
+h3{
+display: none;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt; &lt;strong&gt;
+&lt;p style=&quot;text-align: center; color:#03244f;&quot;&gt;
+	 СЕГОДНЯ СВОЕ ДЕНЬ РОЖДЕНИЕ ПРАЗДНУЕТ НАШ ЗАМЕЧАТЕЛЬНЫЙ РУКОВОДИТЕЛЬ КОМПАНИИ ООО &quot;ИТЦ УКАВТ&quot;
+&lt;/p&gt;
+ &lt;/strong&gt;
+&lt;p style=&quot;text-align: center; color:#03244f;&quot;&gt;
+	 У вас в руках большое дело, &lt;br&gt;
+	 вы им владеете умело &lt;br&gt;
+	 и можете в один момент &lt;br&gt;
+	 любой уладить инцидент.&lt;br&gt;
+ &lt;br&gt;
+	 Вы на слуху и на виду, &lt;br&gt;
+	 с ‘верхами’ быть должны в ладу, &lt;br&gt;
+	 на вас и люди, и финансы, &lt;br&gt;
+	 все-все вам нужно взвесить шансы,&lt;br&gt;
+ &lt;br&gt;
+	 все просчитать, предугадать, &lt;br&gt;
+	 знать смысл и толк в любом законе… &lt;br&gt;
+	 И нету в вашем лексиконе &lt;br&gt;
+	 лишь только слова ‘отдыхать’.&lt;br&gt;
+ &lt;br&gt;
+	 Вам благодарны мы безмерно! &lt;br&gt;
+	 Желаем бодрости и сил, &lt;br&gt;
+	 чтоб каждый день ваш безразмерный &lt;br&gt;
+	 вам только радость приносил!&lt;br&gt;
+ &lt;br&gt;
+ &lt;img width=&quot;800&quot; alt=&quot;с днем рождения директор ООО ИТЦ УКАВТ&quot; src=&quot;/upload/medialibrary/fde/fde0030a6922922d470c6dff41bd45c6.jpg&quot; height=&quot;562&quot; title=&quot;с днем рождения директор ООО ИТЦ УКАВТ&quot;&gt;&lt;br&gt;
+&lt;/p&gt;
+ &lt;br&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/01c/01cecbad7bfe7b0f73b3144dc86e385b.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>164015</Ид>
+				<Наименование>Сертификат дилера КПСР групп</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>sertifikat_dilera_kpsr_grupp</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-05-16 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Наша компания стала дилером Минской компании &quot;КПСР - групп&quot;&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Посмотреть сертификат дилера...&lt;/strong&gt;
+&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;h1&gt;Наши новые стратегические партнеры&lt;/h1&gt;
+ &lt;style&gt;
+h1{
+font-size: 120%;
+color:#0192dc;
+text-align: center;
+font-weight: bold; 
+}
+h3{
+display: none;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+ &lt;span style=&quot;color: #03244f;&quot;&gt;Предприятие «КПСР - групп» по праву является одним из лидеров рынка производителей запорно-регулирующего оборудования. С момента основания в 2000 году компания развивается, разрабатывает новые решения, позволяющие соответствовать необходимым требованиям потребителей. Основной акцент в своей работе компания делаем на качестве выпускаемой продукции. «КПСР - групп» осуществляет индивидуальный подход к удовлетворению потребностей каждого клиента.&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+ &lt;img width=&quot;600&quot; alt=&quot;Сертификат дилера КПСР&quot; src=&quot;/upload/medialibrary/a36/a36f6d1201b1a980bbf0d76ba88831d2.jpg&quot; height=&quot;850&quot; title=&quot;Сертификат дилера КПСР&quot; style=&quot;width: 33%;&quot;&gt;
+&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/81a/81affc847ca359daf230ac56250cd01a.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>164016</Ид>
+				<Наименование>Крупнейшая Российская выставка мирового станкостроения и современных технологий металлообработки</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>krupneyshaya_rossiyskaya_vystavka_mirovogo_stankostroeniya_i_sovremennykh_tekhnologiy_metalloobrabot</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-05-31 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+ Компания &quot;УКАВТ&quot; посетила выставку по металлообработке в г. Москва.&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Как это было, расскажем далее.....&lt;/strong&gt;
+&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;h1&gt;Фотоотчет с мероприятия&lt;/h1&gt;
+ &lt;style&gt;
+h1{
+font-size: 120%;
+color:#0192dc;
+text-align: center;
+}
+h2{
+font-size: 100%;
+}
+h3{
+display: none;
+}
+.mitch_int{
+color:#03244f;
+}
+@media screen and (max-width: 720px) {
+  table {
+    border: 0;
+  }
+  table thead {
+    display: none;
+  }
+  table tr {
+    margin-bottom: 10px;
+    display: block;
+    border-bottom: 2px solid #ddd;
+  }
+  table td {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    border-bottom: 1px dotted #ccc;
+    border-right: 1px solid transparent;
+  }
+  table td:last-child {
+    border-bottom: 0;
+  }
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+ &lt;img width=&quot;810&quot; alt=&quot;Выставка Металлообработка 2019&quot; src=&quot;/upload/medialibrary/42a/42a26806dab5ed45ff3a2b0362f37071.jpg&quot; height=&quot;424&quot; title=&quot;Выставка Металлообработка 2019&quot;&gt;
+&lt;/p&gt;
+&lt;p class=&quot;mitch_int&quot;&gt;
+	 Компания ИТЦ «УКАВТ» приняла участие в ежегодной выставке «Металлообработка 2019» г. Москва, в качестве докладчика на конференции «Роботизация и Металлообработка» с докладом «Применение компонентов YASKAWA в технологических линиях».
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_1&quot; href=&quot;/upload/medialibrary/de9/de929b10fa4e29e40f357895131e107f.jpg&quot; height=&quot;1000&quot; width=&quot;400&quot; title=&quot;Выступление директора УКАВТ&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выступление директора УКАВТ&quot; src=&quot;/upload/medialibrary/de9/de929b10fa4e29e40f357895131e107f.jpg&quot; height=&quot;270&quot; title=&quot;Выступление директора УКАВТ&quot;&gt;&lt;/a&gt;
+		&lt;SCRIPT LANGUAGE=&quot;JavaScript&quot;&gt;
+$(document).ready(function() {
+    $(&quot;#single_1&quot;).fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
+
+    $(&quot;#single_2&quot;).fancybox({
+    	openEffect	: 'elastic',
+    	closeEffect	: 'elastic',
+
+    	helpers : {
+    		title : {
+    			type : 'inside'
+    		}
+    	}
+    });
+});
+&lt;/SCRIPT&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_2&quot; href=&quot;/upload/medialibrary/442/44299112931d248196da35a00441e324.jpg&quot; height=&quot;1000&quot; width=&quot;400&quot; title=&quot;Выступление директора УКАВТ&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выступление директора УКАВТ&quot; src=&quot;/upload/medialibrary/442/44299112931d248196da35a00441e324.jpg&quot; height=&quot;270&quot; title=&quot;Выступление директора УКАВТ&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;mitch_int&quot;&gt;
+	 Выступление директора ИТЦ «УКАВТ» Качкаева Владимира Владимировича, затронуло основные темы в отрасли металлообработке, а именно опыт внедрения автоматизированных систем, их практическое применение на предприятиях. В ходе доклада были представлены реализованные проекты, т.к. ОАО ВИЗ и ОАО КУМЗ.
+&lt;/p&gt;
+ &lt;br&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/eb3/eb3e9d15973213ac3da7f4fa68f90adf.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>164176</Ид>
+				<Наименование>Завершился летний турнир по спортивным играм </Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>zavershilsya_letniy_turnir_po_sportivnym_igram_</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-07-20 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+ Наша компания каждый год принимает участие в спортивных турнирах, проводимых среди строительных компаний г. Челябинска.&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Поздравим наших участников.....&lt;/strong&gt;
+&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;h1&gt;Фотоотчет с мероприятия&lt;/h1&gt;
+ &lt;style&gt;
+h1{
+font-size: 120%;
+color:#0192dc;
+text-align: center;
+}
+h2{
+font-size: 100%;
+}
+h3{
+display: none;
+}
+.mitch_int{
+color:#03244f;
+}
+@media screen and (max-width: 720px) {
+  table {
+    border: 0;
+  }
+  table thead {
+    display: none;
+  }
+  table tr {
+    margin-bottom: 10px;
+    display: block;
+    border-bottom: 2px solid #ddd;
+  }
+  table td {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    border-bottom: 1px dotted #ccc;
+    border-right: 1px solid transparent;
+  }
+  table td:last-child {
+    border-bottom: 0;
+  }
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt; &lt;SCRIPT LANGUAGE=&quot;JavaScript&quot;&gt;
+$(document).ready(function() {
+    $(&quot;#single_1&quot;).fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
+
+    $(&quot;#single_2&quot;).fancybox({
+    	openEffect	: 'elastic',
+    	closeEffect	: 'elastic',
+
+    	helpers : {
+    		title : {
+    			type : 'inside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_3&quot;).fancybox({
+    	openEffect : 'none',
+    	closeEffect	: 'none',
+    	helpers : {
+    		title : {
+    			type : 'outside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_4&quot;).fancybox({
+    	helpers : {
+    		title : {
+    			type : 'over'
+    		}
+    	}
+    });
+});
+&lt;/SCRIPT&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_1&quot; href=&quot;/upload/medialibrary/958/958097448c51c88aa3f480f54e0b5861.jpg&quot; height=&quot;213&quot; title=&quot;Баскетбол ИТЦ УКАВТ&quot;&gt; &lt;img width=&quot;350&quot; alt=&quot;Баскетбол ИТЦ УКАВТ&quot; src=&quot;/upload/medialibrary/958/958097448c51c88aa3f480f54e0b5861.jpg&quot; height=&quot;263&quot; title=&quot;Баскетбол ИТЦ УКАВТ&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_2&quot; href=&quot;/upload/medialibrary/cc4/cc4e5bbde91eb78ef195d38d5c632f43.jpg&quot; height=&quot;213&quot; title=&quot;Волейбол ИТЦ УКАВТ&quot;&gt; &lt;img width=&quot;350&quot; alt=&quot;Волейбол ИТЦ УКАВТ&quot; src=&quot;/upload/medialibrary/cc4/cc4e5bbde91eb78ef195d38d5c632f43.jpg&quot; height=&quot;263&quot; title=&quot;Волейбол ИТЦ УКАВТ&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;mitch_int&quot;&gt;
+	 ООО ИТЦ «Укавт» во главе с директором организации принимала участие в спартакиаде среди строительных фирм, проводимых членами «Союза Строительных компаний Урала и Сибири».
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_3&quot; href=&quot;/upload/medialibrary/f20/f20ef8fba83b9774a8995b55bb62b563.jpg&quot; height=&quot;213&quot; title=&quot;Футбол ИТЦ УКАВТ&quot;&gt; &lt;img width=&quot;350&quot; alt=&quot;Футбол ИТЦ УКАВТ&quot; src=&quot;/upload/medialibrary/f20/f20ef8fba83b9774a8995b55bb62b563.jpg&quot; height=&quot;263&quot; title=&quot;Футбол ИТЦ УКАВТ&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_4&quot; href=&quot;/upload/medialibrary/cde/cde0b275086a1f3194d74ee6eb54e23b.jpg&quot; height=&quot;213&quot; title=&quot;Волейбол ИТЦ УКАВТ&quot;&gt; &lt;img width=&quot;350&quot; alt=&quot;Волейбол ИТЦ УКАВТ&quot; src=&quot;/upload/medialibrary/cde/cde0b275086a1f3194d74ee6eb54e23b.jpg&quot; height=&quot;263&quot; title=&quot;Волейбол ИТЦ УКАВТ&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;mitch_int&quot;&gt;
+	 Наша команда соревновалась за первенство в таких видах спорта, как футбол, баскетбол и волейбол.
+&lt;/p&gt;
+ &lt;br&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/0d9/0d91eb81d11a27434f555b79a0c913c4.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>164303</Ид>
+				<Наименование>Выставка «Агропродмаш-2019»</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение>vystavka_agroprodmash_2019</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение>2019-10-14 00:00:00</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение>&lt;p style=&quot;color:#03244f&quot;&gt;
+	 Компания ООО ИТЦ &quot;УКАВТ&quot; приняла участи в выставке «Агропродмаш-2019», проходившей с 7-11 октября в г. Москва&lt;br&gt;
+ &lt;br&gt;
+ &lt;strong&gt;Как это было, расскажем далее.....&lt;/strong&gt;
+&lt;/p&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение>&lt;h1&gt;Выставка «Агропродмаш-2019»&lt;/h1&gt;
+ &lt;style&gt;
+h1{
+font-size: 120%;
+color:#0192dc;
+text-align: center;
+}
+h2{
+font-size: 100%;
+}
+h3{
+display: none;
+}
+.mitch_int{
+color:#03244f;
+}
+@media screen and (max-width: 720px) {
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}}
+@media screen and (max-width: 720px) {
+  table {
+    border: 0;
+  }
+  table thead {
+    display: none;
+  }
+  table tr {
+    margin-bottom: 10px;
+    display: block;
+    border-bottom: 2px solid #ddd;
+  }
+  table td {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    border-bottom: 1px dotted #ccc;
+    border-right: 1px solid transparent;
+  }
+  table td:last-child {
+    border-bottom: 0;
+  }
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+img {
+max-width: 100%;
+height: auto;
+}
+@media (max-width: 600px) { body {font-size:0.8rem;} } }
+}
+&lt;/style&gt; &lt;SCRIPT LANGUAGE=&quot;JavaScript&quot;&gt;
+$(document).ready(function() {
+    $(&quot;#single_1&quot;).fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
+
+    $(&quot;#single_2&quot;).fancybox({
+    	openEffect	: 'elastic',
+    	closeEffect	: 'elastic',
+
+    	helpers : {
+    		title : {
+    			type : 'inside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_3&quot;).fancybox({
+    	openEffect : 'none',
+    	closeEffect	: 'none',
+    	helpers : {
+    		title : {
+    			type : 'outside'
+    		}
+    	}
+    });
+
+    $(&quot;#single_4&quot;).fancybox({
+    	helpers : {
+    		title : {
+    			type : 'over'
+    		}
+    	}
+    });
+
+});
+&lt;/SCRIPT&gt;
+&lt;p class=&quot;mitch_int&quot;&gt;
+	 7-11 октября 2019 года состоялась самая масштабная выставка «Агропродмаш-2019», где компания ООО ИТЦ «УКАВТ» представила новые решения в области упаковки готовой продукции. Совместно с роботами японской компании «Yaskawa» и разработанной оснастке, упаковки с яйцами бережно укладываются в коробки.
+&lt;/p&gt;
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_1&quot; href=&quot;/upload/medialibrary/6f7/6f7846711c8cdd6fa01658cbc918b342.jpg&quot; height=&quot;213&quot; title=&quot;Серебряков А.В.&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Серебряков А.В.&quot; src=&quot;/upload/medialibrary/6f7/6f7846711c8cdd6fa01658cbc918b342.jpg&quot; height=&quot;270&quot; title=&quot;Серебряков А.В.&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+		 &lt;iframe width=&quot;400&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/nd63QgD-t2U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_2&quot; href=&quot;/upload/medialibrary/e54/e54e3a6525b0d88c66cb2dd51748c024.jpg&quot; height=&quot;213&quot; title=&quot;Выставочный стенд ИТЦ УКАВТ&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выставочный стенд ИТЦ УКАВТ&quot; src=&quot;/upload/medialibrary/e54/e54e3a6525b0d88c66cb2dd51748c024.jpg&quot; height=&quot;270&quot; title=&quot;Выставочный стенд ИТЦ УКАВТ&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;mitch_int&quot;&gt;
+	 Подобный захват – это уникальное изобретение для России. Он был полностью разработан, протестирован и введен в эксплуатацию инженерами конструкторского бюро ИТЦ УКАВТ.  На выставке компания представила робот- манипулятор, способный упаковывать закрытые коробки по 10 яиц. А также рассказала о возможности паллетирования открытых коробок на 20 и 30 яиц. Устройство захвата, разработанное под различные размеры коробок, можно вмонтировать довольно просто. 
+&lt;table align=&quot;center&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_3&quot; href=&quot;/upload/medialibrary/362/3626c0773514dff30c0583fc5006adac.jpg&quot; height=&quot;213&quot; title=&quot;Выставочный стенд ИТЦ УКАВТ&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выставочный стенд ИТЦ УКАВТ&quot; src=&quot;/upload/medialibrary/362/3626c0773514dff30c0583fc5006adac.jpg&quot; height=&quot;270&quot; title=&quot;Выставочный стенд ИТЦ УКАВТ&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+		 &lt;iframe width=&quot;400&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/hs_3djgA5HY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+	&lt;/td&gt;
+	&lt;td style=&quot;text-align: center;&quot;&gt;
+ &lt;a id=&quot;single_4&quot; href=&quot;/upload/medialibrary/f4a/f4a401e47dff8c7c384121b547457e3e.jpg&quot; height=&quot;213&quot; title=&quot;Выставочный стенд ИТЦ УКАВТ&quot;&gt; &lt;img width=&quot;400&quot; alt=&quot;Выставочный стенд ИТЦ УКАВТ&quot; src=&quot;/upload/medialibrary/f4a/f4a401e47dff8c7c384121b547457e3e.jpg&quot; height=&quot;270&quot; title=&quot;Выставочный стенд ИТЦ УКАВТ&quot; ИТЦ=&quot;null&quot;&gt; &lt;/a&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;mitch_int&quot;&gt;
+	 Робот – манипулятор позволяет полностью исключить человеческий фактор при упаковке яиц. Данный процесс - очень монотонная работа и как правило, женская. За 12 часов упаковщице необходимо перенести больше тонны яиц. Человек физически не может выдерживать монотонные операции и быть сосредоточенным на протяжении всего рабочего времени. Возникают сбои, а вместе с ним и проблемы, связанные с поставкой брака конечному потребителю. Во избежание подобный ситуаций, наши заказчики отдают предпочтения надежной японской фирме Yaskawa, чьи роботы отличаются качеством и износостойкостью. Робот, демонстрирующийся на выставочном стенде, после окончания выставки отправился на предприятие к заказчику.
+&lt;/p&gt;
+ &lt;br&gt;</Значение>
+						<Тип>html</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>news_files/iblock/d5d/d5d38656a7730275ab9bb1c97b52bd5d.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>240</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+		</Товары>
+	</Каталог>
+</КоммерческаяИнформация>
